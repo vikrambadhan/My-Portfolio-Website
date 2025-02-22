@@ -7,10 +7,10 @@ function Skills() {
       icon: "🎯",
       color: "from-blue-600 to-purple-600",
       skills: [
-        { name: "Java", icon: "🐍" },
-        { name: "Python", icon: "💫" },
+        { name: "Python", icon: "🐍" },
+        { name: "TypeScript", icon: "💫" },
         { name: "JavaScript", icon: "📘" },
-        { name: "Typescript", icon: "☕" },
+        { name: "Java", icon: "☕" },
         
       ],
       description: "Code Wizardry"

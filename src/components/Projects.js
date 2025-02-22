@@ -53,14 +53,14 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A modern and interactive portfolio showcasing my work with advanced animations.",
-    technologies: ["React", "Tailwind CSS", "JavaScript"],
+    technologies: ["ReactJS", "Tailwind CSS", "JavaScript"],
     github: "https://github.com/vikrambadhan/My-Portfolio-Website",
     category: "Frontend"
   },
   {
     title: "Entrata Automation Using Puppeteer",
     description: "A Puppeteer-based automation tool for downloading and renaming invoices from Entrata, automating filtering, batch downloads, and file naming using invoice numbers.",
-    technologies: ["Java", "Distributed Systems"],
+    technologies: ["Python", "Puppeteer"],
     github: "https://github.com/vikrambadhan/entrata-invoice-automation",
     category: "Automation Script"
   }

@@ -41,7 +41,7 @@ const Work = () => {
       duration: "May 2022 – May 2023",
       location: "Manhattan, NY",
       icon: <FaReact className="w-6 h-6" />,
-      skills: ["React.js", "Express.js", "MongoDB", "AWS", "Python"],
+      skills: ["ReactJS", "ExpressJS", "MongoDB", "AWS", "Python"],
       description: [
         "Developed “SupportHub,” a cloud-based IT ticketing platform using React.js, Express.js, and MongoDB, hosted on AWS. Integrated an LLM-powered chatbot, automating ticket triaging and responses, improving resolution efficiency.",
         "Streamlined deployment processes by migrating the codebase from Snowflake to GitLab, leveraging AWS Lambda (Python runtime) for automation. Reduced deployment time by 30%, enabling faster iteration and code delivery.",
@@ -55,7 +55,7 @@ const Work = () => {
       duration: "February 2022– May 2022",
       location: "Brooklyn, NY",
       icon: <FaServer className="w-6 h-6" />,
-      skills: ["ReactJS", "Node.js", "Python", "React-Three-Fiber", "IFCOpenShell"],
+      skills: ["ReactJS", "NodeJS", "Python", "React-Three-Fiber", "IFCOpenShell"],
       description: [
         "Developed an advanced 3D BIM (Building Information Model) visualization application using ReactJS and ThreeJS, reducing rendering time by 40% and enhancing model interactivity.",
         "Optimized BIM model data extraction by leveraging Python’s IFCopenShell to efficiently parse large IFC files and using React-Three-Fiber to render 3000+ mesh components, resulting in a 40% improvement in processing speed.",
