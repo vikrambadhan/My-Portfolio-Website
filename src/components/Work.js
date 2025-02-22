@@ -17,7 +17,7 @@ const Work = () => {
         "Developed RealPage API integrations to automate data exchange, optimizing the renewal process for lease expirations and reducing lease processing time by 40%, while streamlining utility billing for 38+ properties",
         "Led a Market Data Analysis project using ApartmentIQ to evaluate rent prices, fees, and amenities, shifting to a data-driven pricing strategy that improved rate-setting efficiency by 25% and increased revenue potential by 10%.",
         "Designed a pricing dashboard to visualize key financial metrics, enabling data-driven decisions and a 20% improvement in rate setting efficiency.",
-        "Developed and implemented an automated system for security report generation and incident tracking, significantly enhancingsystematic reporting processes, boosting operational efficiency by 20%, and enabling instant access to critical data."
+        "Developed and implemented an automated system for security report generation and incident tracking, significantly enhancing systematic reporting processes, boosting operational efficiency by 20%, and enabling instant access to critical data."
       ],
     },
     {
